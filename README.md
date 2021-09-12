@@ -1,7 +1,7 @@
 ### Olá eu sou o Diogo Braga 👋
 
 - 🔭 Hoje trabalho como analista de suporte, mas visando entrar na area da programação
-- 🌱 Estudando Python
+- 🌱 Estudando Python, HTML, CSS e JS 😁
 - 📫 Contate-me no email: diogonascimentobraga@gmail.com
 
 <div>
