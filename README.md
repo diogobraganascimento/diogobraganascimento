@@ -5,8 +5,8 @@ Atualmente participo do bootcamp Santander pela DIO e desenvolvo projetos pessoa
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=diogobraganascimento&theme=dark&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF) 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=diogobraganascimento&theme=dark&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=diogobraganascimento&theme=dark&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&locale=pt-br) 
+[![GitHub Streak](https://git-hub-streak-stats.vercel.app?user=diogobraganascimento&theme=highcontrast&border_radius=5&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&mode=weekly)](https://git.io/streak-stats)
 
 
 ## 🛠️ Skills & Tools
@@ -17,18 +17,14 @@ Atualmente participo do bootcamp Santander pela DIO e desenvolvo projetos pessoa
 ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=diogobraganascimento&layout=compact&langs_count=7&theme=dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=diogobraganascimento&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=diogobraganascimento&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&langs_count=7&theme=dark&locale=pt-br)
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=diogobraganascimento&theme=github_dark&locale=pt-br)
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=diogobraganascimento&theme=github_dark&locale=pt-br)
 
 
 ## 🚀 Projetos em destaque
 🔹 [Controle Financeiro](https://github.com/diogobraganascimento/controle-financeiro) – Gerenciamento de créditos e débitos com interface web  
 🔹 [Projeto Classifica Series](https://github.com/diogobraganascimento/classificaSeries) – Outro projeto de estudo interessante
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=diogobraganascimento&repo=controle-financeiro&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/diogobraganascimento/controle-financeiro)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=diogobraganascimento&repo=classificaSeries&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/diogobraganascimento/classificaSeries)
-
 
 ## 📚 Atualmente estudando
 - Desenvolvimento backend com Python
@@ -47,5 +43,5 @@ Atualmente participo do bootcamp Santander pela DIO e desenvolvo projetos pessoa
 ## 🎮 Curiosidade
 Sou apaixonado por videogames e sempre encontro tempo para jogar 🎮
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=diogobraganascimento&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=diogobraganascimento&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=diogobraganascimento&theme=github_dark&locale=pt-br)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=diogobraganascimento&theme=github_dark&locale=pt-br)
